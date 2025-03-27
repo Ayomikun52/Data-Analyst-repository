@@ -1,2 +1,6 @@
-# Adeniji Ayomikun Akeem
-Hi, there! I am Ayomikun, and welcome to my profile. I am a trained data analyst with about 2 years experience in the logistics industry. I am able collect, organize, interpret, and disseminate a variety of statistical figures. I am an active presenter and confident communicator with the ability to present data findings in a clear, efficient, and informative manner to end users. Innovative in solving problem and determining changes to ensure the best possible use of organizational data. I posses exceptional attention to details, make realistic estimates and develop multiple scenarios in order to determine viable process solutions.
+# Adeniji Ayomikun
+I'm an IBM Certified Data Analyst with expertise in data warehousing, process validation, and business needs analysis. I specialize in analyzing, interpreting, and transforming complex datasets into meaningful insights. With a strong foundation in machine learning, I apply predictive modeling and statistical techniques to drive data-driven decision-making.
+
+I have a proven ability to understand business requirements and translate them into actionable strategies, optimizing processes and improving efficiency. Passionate about Big Data, I am always exploring new ways to leverage data for impactful solutions.
+
+Check out my projects to see how I apply data analytics, machine learning, and visualization techniques to solve real-world problems! 
